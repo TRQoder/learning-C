@@ -13,14 +13,13 @@ int main()
         }
     }
     printf("%d\n", max);
-    
+
     for (int i = 1; i < 4; i++)
     {
-        if (arr[i] != max && secMax < arr[i])   
+        if (arr[i] != max && secMax < arr[i])
         {
             secMax = arr[i];
         }
-        
     }
 
     printf("%d\n", secMax);

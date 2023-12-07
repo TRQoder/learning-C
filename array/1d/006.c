@@ -1,17 +1,18 @@
+//Doubt
+
 #include <stdio.h>
 int maximum(int arr[])
 {
     int max = arr[0];
     int i;
-    for ( i = 1; i <= 3; i++)
+    for (i = 1; i <= 3; i++)
     {
         if (arr[i] > max)
         {
             max = arr[i];
         }
     }
-    printf("d\n",i);
-    
+    printf("%d\n", i);
 
     return max;
 }
@@ -23,8 +24,6 @@ int main()
     max1 = 0;
     int max2 = maximum(arr);
     printf("%d\n", max2);
-
-
 
     return 0;
 }

@@ -12,14 +12,7 @@ int sum(int arr[])
 int main()
 {
     int arr[] = {5, 4, 2, 3};
-    // sum(arr);
-    //  int result = 1;
-    // for (int i = 0; i <= 3; i++)
-    // {
 
-    //     result *= arr[i];
-    // }
-    // int y = sum(arr);
     printf("%d\n", sum(arr));
 
     return 0;

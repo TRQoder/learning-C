@@ -19,8 +19,7 @@ int main()
     }
 
     int diff = evenSum - oddSum;
-    printf("The difference between Even indexed and Odd indexed is %d\n",diff);
-    
+    printf("The difference between Even indexed and Odd indexed is %d\n", diff);
 
     return 0;
 }
