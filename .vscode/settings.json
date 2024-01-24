@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "01_SQUARE.C": "cpp",
-        "stdio.h": "c",
-        "stdlib.h": "c",
-        "string.h": "c"
-    }
-}
