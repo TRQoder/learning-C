@@ -22,10 +22,10 @@ int main(){
      printf("%d \n",*ptr);  //12
 
 
-     printf("%c \n",c);  //12
-     printf("%p \n",&c);  //12
-     printf("%p \n",ptrc);  //12
-     printf("%c \n",*ptrc);  //12
+     printf("%c \n",c);  //A
+     printf("%p \n",&c);  //0028FF23
+     printf("%p \n",ptrc);  //0028FF23
+     printf("%c \n",*ptrc);  //A
      
 
  
