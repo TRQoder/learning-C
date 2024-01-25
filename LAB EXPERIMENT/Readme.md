@@ -19,5 +19,9 @@ To Do's ----->>
 11.4 - to be done
 11.5 - to be done
 
---------> 12 - to be done
+--------> 
+12.1 - to be done 
+12.4 - to be done 
+12.5 - to be done 
+
 --------->13 - to be done

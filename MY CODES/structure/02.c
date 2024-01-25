@@ -9,8 +9,8 @@ struct person
 int main()
 {
     struct person person[] = {{.name = "Trq", .age = 19, .height = 10},
-                  {.name = "TAriq", .age = 20, .height = 24},
-                  {.name = "Amit", .age = 19, .height = 45}};
+                              {.name = "TAriq", .age = 20, .height = 24},
+                              {.name = "Amit", .age = 19, .height = 45}};
 
     // printf("Name : %s\nAge : %d\nHeight : %.2f \n", person1.name, person1.age, person1.height);
     // printf("Name : %s\nAge : %d\nHeight : %.2f \n", person2.name, person2.age, person2.height);
