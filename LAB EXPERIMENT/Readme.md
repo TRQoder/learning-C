@@ -1,14 +1,12 @@
 ## LAB EXPERIMENT
 To Do's ----->>
-3.1 - Adjust for C;
-4.3 - check
-4.5 - to be done (roots of quad)
--------->5.a - to be done
-5.b.1 - check
-5.b.2 - check
+3.1 - Adjust for \0;
+
+5.a.8 - to be done (down pyramid)
 
 --------> 7 - to be done  
 --------> 8 - to be done
+
 9.3 - to be done (bianry Search)
 9.6 - to be done (matrix multiplication)
 

@@ -10,7 +10,7 @@ int main()
 {
     int n = 5;
     class student[n];
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n; ++)
     {
         printf("Enter the Details of Student %d\n", i + 1);
         printf("Name : ");
