@@ -8,6 +8,7 @@ To Do's ----->>
 --------> 8 - to be done
 
 9.3 - to be done (bianry Search)
+9.5-check
 9.6 - to be done (matrix multiplication)
 
 10.3 - to be done
